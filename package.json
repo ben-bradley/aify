@@ -1,0 +1,19 @@
+{
+  "name": "aify",
+  "version": "1.0.0",
+  "description": "Convert nested objects into arrays in order to standardize navigation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-bradley/aify.git"
+  },
+  "author": "Ben Bradley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ben-bradley/aify/issues"
+  },
+  "homepage": "https://github.com/ben-bradley/aify#readme"
+}
